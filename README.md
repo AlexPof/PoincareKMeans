@@ -11,7 +11,7 @@ This code has not been optimized. All contributions (for example for optimizing 
 The API follows closely that of [scikit-learn K-Means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html).
 A model is obtained by importing and instantiating PoincareKMeans
 
-  >>> model = PoincareKMeans()
+    >>> model = PoincareKMeans()
 
 The options are as follows.
 
